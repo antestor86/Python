@@ -1,6 +1,6 @@
 import subprocess
 
-
+"""Test"""
 path = r"C:/Users/razmik.avetisyan/Desktop/log.txt"
 
 out = open(path,'a')
